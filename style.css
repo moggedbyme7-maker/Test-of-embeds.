@@ -4,11 +4,13 @@ body{
 h1{
   color: red;
   font-size: 48px;
+  font-weight: bold;
   text-align: left;
 }
 p{
   color: white;
   font-size: 16px;
+  font-weight: bold;
   text-align: left;
 }
 h1{
@@ -17,10 +19,15 @@ h1{
 p{
   font-family: Arial, Helvetica, sans-sheriff;
 }
+a{
+  font-family: sans-sherriff;
+  font-weight: bold;
+  color: navy
+}
 nav a.highlight-link{
   display: inline-block;
-  background-color: #007bff;
-  color: #ffffff;
+  background-color: red;
+  color: white;
   padding: 8px 16px;
   border-radius: 4px;
   font-weight: 600;
