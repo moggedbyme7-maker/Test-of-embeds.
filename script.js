@@ -2,6 +2,7 @@ const games = [
   {name:"Test by Mogger", file:"index.html"},
   {name:"Cookie Clicker", file:"cookieclicker.html"},
   {name:"Super Mario 64", file:"sm64.html"},
+  {name:"PvZ 1 Modded", file:"pvzmodded.html"}
   ];
 
 function loadGames(){
